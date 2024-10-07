@@ -1,13 +1,14 @@
-# Hi, I'm Ibraheem Bhatti! 👋
+# Hi, I'm M.Ibraheem Zafar! 👋
 
-I'm a seasoned Full Stack Web Developer with over 5+ years of experience in building robust web solutions. My expertise spans across various domains, including real estate, e-commerce, education, digital marketing, and more.
+I'm a Front End Engineer with over 1+ years of experience. Recently I have completed Front End Path from code academy and earned Professional Certificate.
+You can view it [Certificate](https://www.codecademy.com/profiles/devibbi/certificates/2682884a0719474f96407efe432fdd87)
 
 ## 🌟 About Me
 
 - 🔭 **Current Role:** Working as Full Stack Engineer
 - 🌐 **Website:** [dev.ibbi](https://devibbi.com)
-- 💼 **LinkedIn:** [Ibraheem Bhatti](https://www.linkedin.com/in/ibraheem-bhatti-86739932a/)
-- 🐦 **X (twitter):** [Ibraheem Bhatti](https://x.com/devibbi)
+- 💼 **LinkedIn:** [Ibraheem Zafar](https://www.linkedin.com/in/ibraheem-bhatti-86739932a/)
+- 🐦 **X (twitter):** [Ibraheem Zafar](https://x.com/devibbi)
 - 🛠️ **Skills:**
   - **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, ReactJS, Redux 
   - **Back-End:** PHP, Node
@@ -28,7 +29,7 @@ I specialize in creating interactive and responsive websites using modern framew
 
 ## 📈 GitHub Stats
 
-![Ibraheem Bhatti's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devibbi&theme=vue-dark&hide_border=true)
+![Ibraheem Zafar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devibbi&theme=vue-dark&hide_border=true)
 
 ## 📝 Latest Blog Posts
 
@@ -38,7 +39,7 @@ I specialize in creating interactive and responsive websites using modern framew
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Ibraheem Bhatti](https://www.linkedin.com/in/ibraheem-bhatti-86739932a/)
+- **LinkedIn:** [Ibraheem Zafar](https://www.linkedin.com/in/ibraheem-bhatti-86739932a/)
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project. Let's create something amazing together!
 
