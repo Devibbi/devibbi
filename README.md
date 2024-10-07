@@ -1,6 +1,6 @@
 # Hi, I'm M. Ibraheem Zafar! 👋
 
-I'm a Front End Engineer with over 1+ year of experience. I have completed Front End Engineer Certification from CodeAcademy recently.
+I'm a Front End Engineer with over 1+ year of experience. I have completed Front End Engineer Certification from Codecademy recently.
 You can view the [Certificate here](https://www.codecademy.com/profiles/devibbi/certificates/2682884a0719474f96407efe432fdd87)
 
 ## 🌟 About Me
