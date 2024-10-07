@@ -1,12 +1,12 @@
-# Hi, I'm M.Ibraheem Zafar! 👋
+# Hi, I'm M. Ibraheem Zafar! 👋
 
-I'm a Front End Engineer with over 1+ years of experience. Recently I have completed Front End Path from code academy and earned Professional Certificate.
-You can view it [Certificate](https://www.codecademy.com/profiles/devibbi/certificates/2682884a0719474f96407efe432fdd87)
+I'm a Front End Engineer with over 1+ year of experience. I have completed Front End Engineer Certification from CodeAcademy recently.
+You can view the [Certificate here](https://www.codecademy.com/profiles/devibbi/certificates/2682884a0719474f96407efe432fdd87)
 
 ## 🌟 About Me
 
-- 🔭 **Current Role:** Working as Full Stack Engineer
-- 🌐 **Website:** [dev.ibbi](https://devibbi.com)
+- 🔭 **Current Role:** Working as Front End Engineer
+- 🌐 **Website:** [devibbi.com](https://devibbi.com)
 - 💼 **LinkedIn:** [Ibraheem Zafar](https://www.linkedin.com/in/ibraheem-bhatti-86739932a/)
 - 🐦 **X (twitter):** [Ibraheem Zafar](https://x.com/devibbi)
 - 🛠️ **Skills:**
@@ -14,11 +14,11 @@ You can view it [Certificate](https://www.codecademy.com/profiles/devibbi/certif
   - **Back-End:** PHP, Node
   - **DevOps:** Ubuntu/linux
   - **Databases:** MySQL, Oracle, Apache
-  - **Other Technologies/ Frameworks:** Shopify, Python, AI, C++
+  - **Other Technologies/ Frameworks:** C, C++, Python, AI
 
 ## 💼 Professional Experience
 
-- **Current Role:** Developed and maintained Full Stack Engineer
+- **Current Role:** Front End Engineer
 - **Community Contributions:** Actively participate in the developer community by sharing knowledge through blogs and tutorials.
 
 ## 🚀 What I Do
